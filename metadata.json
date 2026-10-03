@@ -1,0 +1,6 @@
+{
+  "name": "CareerGenie AI Resume Builder",
+  "description": "Enterprise-grade AI resume builder with ATS diagnostics, neural skill bridge, and Cupertino-inspired typography presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
